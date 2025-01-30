@@ -48,7 +48,7 @@ public class Calculator extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("STXihei", 0, 14)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("Phone Quality:");
+        jLabel2.setText("Phone Quantity:");
 
         jLabel3.setFont(new java.awt.Font("STXihei", 0, 14)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
